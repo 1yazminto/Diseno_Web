@@ -25,6 +25,11 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 Preguntas:
 
 1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0)
+        ayuda a escribir software,
+        tiene características útiles como: resaltar la sintaxis,
+        encontrar algunos problemas dependiendo del lenguaje o autocompletando, desahacer o rehacer el ultimo comando
+        la capacidad de cortar, copiar y pegar texto
+        
 
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
 
