@@ -32,6 +32,11 @@ Preguntas:
         
 
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
+        visual studio
+        Atom
+        HTLM
+        CSS
+        JS
 
 3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
 
