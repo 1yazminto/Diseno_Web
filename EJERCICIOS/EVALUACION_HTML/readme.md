@@ -38,7 +38,8 @@ Preguntas:
         CSS
         JS
 
-3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
+3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)      
+   .html
 
 4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
 
