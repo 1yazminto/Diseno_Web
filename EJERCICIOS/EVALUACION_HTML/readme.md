@@ -250,7 +250,7 @@ Preguntas:
   
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
   
-        a) title
+        a) title este es el correcto
         b) head
         c) meta
   
