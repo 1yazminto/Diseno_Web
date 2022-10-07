@@ -258,7 +258,7 @@ Preguntas:
 
         a) longdesc
         b) src
-        c) alt
+        c) alt esta es la correcta
         d) title
   
 23. ¿Qué tipo de documento es correcto para HTML5? (valor 0.24)
