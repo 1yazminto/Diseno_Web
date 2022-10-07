@@ -203,7 +203,7 @@ Preguntas:
           a) input type="check"
           b) check
           c) checkbox
-          d) <input type="checkbox">  
+          d) <input type="checkbox"> este es correcto 
 
 14. ¿Cuál es el HTML correcto para crear un campo de entrada de texto? (valor 0.24) 
   
