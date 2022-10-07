@@ -180,13 +180,13 @@ Preguntas:
   
 10. Los elementos inline normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
-          a) Verdadero
+          a) Verdadero este es correcto
           b) Falso
     
   
 11. ¿Cómo puedes hacer una lista numerada? (valor 0.24)
   
-          a) list
+          a) list este es el correcto
           b) ol
           c) ul
           d) dl
@@ -194,7 +194,7 @@ Preguntas:
 12. ¿Cómo se puede hacer una lista con viñetas? (valor 0.24)
   
           a) ol
-          b) ul
+          b) ulesta es la correcta
           c) list
           d) dl
   
