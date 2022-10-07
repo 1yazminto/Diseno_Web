@@ -210,7 +210,7 @@ Preguntas:
           a) textfield
           b) textinput type="text"
           c) input type="textfield"
-          d) input type="text"
+          d) input type="text" este es el correcto
   
 15. ¿Cuál es el HTML correcto para hacer una lista desplegable? (valor 0.24)
   
@@ -227,7 +227,7 @@ Preguntas:
   
 17. ¿Cuál es el HTML correcto para insertar una imagen? (valor 0.24
   
-          a) <img src="image.gif" alt="Mi imagen">
+          a) <img src="image.gif" alt="Mi imagen"> esta es la correcta
           b) <img href="image.gif" alt="Mi imagen">
           c) <img alt="Mi imagen">image.gif</img>
           d) <image src="image.gif" alt="Mi imagen">
