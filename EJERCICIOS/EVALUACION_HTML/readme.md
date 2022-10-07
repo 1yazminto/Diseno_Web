@@ -130,7 +130,7 @@ Preguntas:
         a) heading
         b) hed
         c) h6
-        d) h1 este es el correo
+        d) h1 este es el correcto
     
 3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
 
@@ -147,7 +147,7 @@ Preguntas:
 5. Elija el elemento HTML correcto para definir texto importante (valor 0.24)
     
         a) b
-        b) strong este es el correo
+        b) strong este es el correcto
         c) i
         d) important
     
