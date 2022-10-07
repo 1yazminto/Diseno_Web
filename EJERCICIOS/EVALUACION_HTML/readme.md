@@ -71,7 +71,7 @@ Preguntas:
 a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
 etiqueta
 
-        a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta
+        a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta correcta
         b) La nueva etiqueta <semantic> contiene información sobre cómo interpretar el
         contenido de la página
         c) Todas las etiquetas ahora tienen un atributo llamado "semántico" que contiene
