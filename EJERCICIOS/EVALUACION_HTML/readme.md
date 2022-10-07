@@ -99,8 +99,8 @@ Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal 
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
   
            
-        1. <img "birthday.jpg">
-        2. <i>Congratulations!<i>
+        1. <img "birthday.jpg">  <img src"birthday.jpg">
+        2. <i>Congratulations!<i> <hi>Congratulations!</hi>
         3. <a href="file.html">Enlace de texto</a href="file.html">
         4. <p>Esto es un párrafo<\p>
 
