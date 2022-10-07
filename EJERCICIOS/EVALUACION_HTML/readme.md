@@ -84,7 +84,7 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
         a) header
         b) footer
         c) nav
-        d) aside
+        d) aside este es el correcto
   
 4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3)
   
