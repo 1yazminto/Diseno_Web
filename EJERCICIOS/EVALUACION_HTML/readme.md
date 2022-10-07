@@ -161,7 +161,7 @@ Preguntas:
 
         a) <a>https://adip.cdmx.gob.mx/</a>
         b) <a name="https://adip.cdmx.gob.mx">ADIP</a>
-        c) <a href="https://adip.cdmx.gob.mx">ADIP</a>
+        c) <a href="https://adip.cdmx.gob.mx">ADIP</a>este es el correcto
         d) <a url=”https://adip.cdmx.gob.mx">ADIP</a>
   
   
