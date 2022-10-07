@@ -246,7 +246,7 @@ Preguntas:
 20.Los elementos de bloque normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
         a) Verdadero
-        b) Falso
+        b) Falso este el correcta
   
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
   
