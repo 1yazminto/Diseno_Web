@@ -64,7 +64,7 @@ Indicaciones: Pedir responder o seleccionar la respuesta correcta según sea el 
 Preguntas:
 
 1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
-
+ son las etiquetas pilares fundamentales parala construccion del diseño de paginas web
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
 a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
 etiqueta
