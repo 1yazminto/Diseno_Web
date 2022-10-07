@@ -100,7 +100,7 @@ uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 
   
            
         1. <img "birthday.jpg">  <img src"birthday.jpg">
-        2. <i>Congratulations!<i> <hi>Congratulations!</hi>
+        2. <i>Congratulations!<i> <h1>Congratulations!</h1>
         3. <a href="file.html">Enlace de texto</a href="file.html">
         4. <p>Esto es un párrafo<\p>
 
@@ -123,7 +123,7 @@ Preguntas:
     
         a) Home Tool Markup Language
         b) Hyperlinks and Text Markup Language
-        c) Hyper Text Markup Language
+        c) Hyper Text Markup Language este es el correcto
     
 2. Elige el elemento HTML correcto para el encabezado más grande: (valor 0.24)
     
