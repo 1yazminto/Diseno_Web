@@ -91,7 +91,7 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
         a) mark
         b) article
         c) time
-        d) span
+        d) span este no clasifica
   
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
   
