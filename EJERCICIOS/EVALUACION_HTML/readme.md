@@ -176,7 +176,7 @@ Preguntas:
           a) thead body  tr
           b) table  tr  tt
           c) table  head  tfoot
-          d) table  tr  td
+          d) table  tr  td es el correcto
   
 10. Los elementos inline normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
