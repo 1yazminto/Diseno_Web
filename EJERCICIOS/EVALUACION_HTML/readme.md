@@ -130,17 +130,17 @@ Preguntas:
         a) heading
         b) hed
         c) h6
-        d) h1
+        d) h1 este es el correo
     
 3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
 
         a) lb
-        b) br
+        b) br este es el correcto
         c) break
 
 4. ¿Cuál es el HTML correcto para agregar un color de fondo? (valor 0.24)
 
-        a) <background>yellow</background>
+        a) <background>yellow</background> este es el correcto
         b) <body bg="yellow">
         c) <body style="background-color:yellow;">
     
