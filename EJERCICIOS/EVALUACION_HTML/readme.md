@@ -147,7 +147,7 @@ Preguntas:
 5. Elija el elemento HTML correcto para definir texto importante (valor 0.24)
     
         a) b
-        b) strong
+        b) strong este es el correo
         c) i
         d) important
     
