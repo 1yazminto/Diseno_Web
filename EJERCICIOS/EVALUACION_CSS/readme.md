@@ -201,11 +201,12 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
 
           INGRESA AQUI EL CÓDIGO HTML
           
-          
-          
+          index.html
+          hero.jpg![imagen](https://user-images.githubusercontent.com/103079658/196343407-185bd614-2a7f-4739-bc9c-6484f94ad40f.png)
+logo.svg
           
           INGRESA AQUI EL CSS
           
-          
+          estilos.css
           
  Ingresa el link a tu página del proyecto final
